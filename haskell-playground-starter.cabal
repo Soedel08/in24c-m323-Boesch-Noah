@@ -9,6 +9,9 @@ version:        0.1.0.0
 build-type:     Simple
 
 library
+  exposed-modules:
+      L11.Sampledata
+      L11.Vector
   other-modules:
       Paths_haskell_playground_starter
   hs-source-dirs:
